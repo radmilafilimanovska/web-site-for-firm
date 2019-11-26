@@ -1,0 +1,204 @@
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover {
+	background-color: transparent;
+	color:white;
+	border-left: 1.5px solid white;
+}
+
+.navbar-nav > li > a,
+.navbar-brand {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.navbar-toggle{
+	margin-top: 15px;
+  	margin-bottom: 15px;
+}
+.cover {
+	height: 70vh;
+}
+
+.display-flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.align-self-center {
+	align-self: center;
+}
+
+.blog-cover {
+	height: 60vh;
+	background-attachment: fixed;
+	background-image: url("img/image1.jpg");
+}
+
+.intro {
+	background-attachment: fixed;
+	background-image: url("img/lights.jpg");
+	background-size: 100%;
+}
+
+.carousel-inner > .item > img {
+  max-width:100%;
+  min-height: 70vh;
+  overflow: hidden;
+}
+
+.carousel-indicators li {
+	width:20px;
+	height: 3px;
+}
+
+.carousel-indicators .active {
+	width:20px;
+	height: 5px;
+}
+
+.carousel-caption {
+	top: 20vh;
+}
+
+.icon {
+	font-size: 30px;
+}
+
+.white-text {
+	color:white;
+}
+
+.grey-line {
+	border-top: 1px solid #212121;
+}
+
+.grey-background {
+	background-color: #333;
+}
+
+.black-background {
+	background-color: black;
+}
+
+.muted {
+	font-size: 12px;
+	color: grey;
+}
+
+.custom-thumbnail {
+	border: none;
+}
+
+.custom-thumbnail img:hover {
+	cursor: pointer;
+}
+
+.btn-red {
+	color:red;
+	background-color:white;
+	border: 1px solid red;
+	margin-bottom: 20px;
+}
+
+.btn-red:hover {
+	color:white;
+	background-color:red;
+	border: 1px solid red;
+}
+
+.flex-cover {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.video-pop {
+	background-attachment: fixed;
+	background-image: url("img/media.jpg");
+	background-size: 100%;
+}
+
+.layer {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.glyphicon-play.icon:hover {
+ 	cursor: pointer;
+ }
+
+ .padding {
+ 	padding-top: 15px;
+	padding-bottom: 15px;
+ }
+
+ .padding2 {
+ 	padding-top: 25px;
+ 	padding-bottom: 25px;
+ }
+
+ .padding-top {
+ 	padding-top:15px;
+ }
+
+ .padding-top2 {
+ 	padding-top:25px;
+ }
+
+ .padding-bottom {
+ 	padding-bottom: 15px;
+ }
+
+.padding-top2 .alert > h4 {
+	margin-top: 10px;
+}
+
+.image-about-us {
+	margin-top:-70px;
+}
+
+.card-margin {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.text-carousel-control.left,
+.text-carousel-control.right {
+	background-image: none;
+}
+
+.panel-grey {
+	background-color: #212121;
+	color: white;
+}
+
+.panel-red {
+	background-color: red;
+	color: white;
+}
+
+.panel-red .muted {
+	color: white;
+}
+
+.panel-blue {
+	background-color: #334FFF;
+	color: white;
+}
+
+.panel-blue .muted {
+	color: white;
+}
+
+.margin-side {
+	margin-left:50px;
+	margin-right: 50px;
+}
+
+.personel img {
+	width: 90%;
+	max-width: 150px;
+	height: auto;
+}
